@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "PipeReceiver\\PipeReceiver.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PipeSender\\PipeSender.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

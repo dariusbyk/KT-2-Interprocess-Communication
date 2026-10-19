@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeReceiver", "PipeReceiver\PipeReceiver.csproj", "{B829174C-B047-4B4A-AD19-21C4C56036D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipeSender", "PipeSender\PipeSender.csproj", "{974D35B2-ECBC-48EC-8135-38B1CCDD9A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B829174C-B047-4B4A-AD19-21C4C56036D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B829174C-B047-4B4A-AD19-21C4C56036D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B829174C-B047-4B4A-AD19-21C4C56036D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B829174C-B047-4B4A-AD19-21C4C56036D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974D35B2-ECBC-48EC-8135-38B1CCDD9A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974D35B2-ECBC-48EC-8135-38B1CCDD9A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974D35B2-ECBC-48EC-8135-38B1CCDD9A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974D35B2-ECBC-48EC-8135-38B1CCDD9A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
